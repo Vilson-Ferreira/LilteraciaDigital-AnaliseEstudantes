@@ -1,4 +1,4 @@
-# Lilteracia Digital - AnaliseEstudantes
+# Lilteracia Digital - Analise de Estudantes
 Análise de pesquisa aplicada para estudantes de medicina para avaliar sua literacia digital.
 
 Aplicações:
