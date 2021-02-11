@@ -1,5 +1,5 @@
-# Lilteracia Digital - Analise de Estudantes
-Análise de pesquisa aplicada para estudantes de medicina para avaliar sua literacia digital.
+# Literacia Digital - Analise de Estudantes
+Análise de dados de pesquisa aplicada para estudantes de medicina, com objetivo de diagnóstico da literacia digital dos alunos.
 
 Aplicações:
 - Análise Exploratória de Dados.
